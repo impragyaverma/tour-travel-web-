@@ -15,7 +15,7 @@ const Banner = () => {
               <div data-aos="flip-up">
                 <img
                   src={TravelImg}
-                  alt="biryani img"
+                  alt="Travel image"
                   className="max-w-[450px] h-[350px] w-full mx-auto drop-shadow-[5px_5px_12px_rgba(0,0,0,0.7)] object-cover"
                 />
               </div>
@@ -31,10 +31,7 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-8"
                 >
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio ratione ex alias quis magni at optio
-                  <br />
+                  Discover breathtaking destinations and unforgettable experiences across the globe. Whether you're seeking adventure, relaxation, or cultural exploration, our comprehensive travel services ensure your journey is seamless and enjoyable from start to finish. Let us guide you to the world’s most iconic and hidden gems.
                 </p>
                 <div data-aos="zoom-in" className="grid grid-cols-2 gap-6">
                   <div className="space-y-6">
@@ -68,3 +65,4 @@ const Banner = () => {
 };
 
 export default Banner;
+
