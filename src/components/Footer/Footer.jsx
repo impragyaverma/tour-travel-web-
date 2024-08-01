@@ -49,9 +49,7 @@ const Footer = () => {
                 {/* TravelloGo */}
               </h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-                facere ab hic accusamus omnis dolor voluptatibus illo, tempore
-                eum tenetur.
+               "Embark on a journey across India, where ancient traditions meet vibrant modernity. From the majestic forts of Rajasthan to the tranquil backwaters of Kerala, uncover the hidden gems and iconic landmarks that make India an unforgettable destination. Explore the diverse landscapes of the United States, from the bustling streets of New York City to the awe-inspiring natural parks like Yosemite and Yellowstone. Whether you're seeking adventure, relaxation, or cultural experiences, this guide will help you discover the best that the US has to offer.""
               </p>
               <br />
               <div className="flex items-center gap-3 ">
